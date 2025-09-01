@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>星夜篝火 | Minecraft 伺服器</title>
-  <meta name="description" content="星夜篝火 — 一個溫馨的 Minecraft 生存/社群伺服器，建造、探險、合作與每晚的篝火聚會。伺服器 IP：play.example.com" />
+  <meta name="description" content="星夜篝火 — 一個溫馨的 Minecraft 生存/社群伺服器，建造、探險、合作與每晚的篝火聚會。伺服器 IP：agency-bathroom.gl.joinmc.link" />
   <style>
     :root{
       --bg:#071024; --card:#0b1630; --accent:#9ad3ff; --muted:#9fb6d8;
