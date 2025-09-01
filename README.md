@@ -76,14 +76,14 @@
           <p class="lead">我們是一個注重社群與創造的 Minecraft 伺服器。無論你喜歡建造、冒險或是簡單社交，這裡都有你的位置。</p>
 
           <div class="features">
-            <div class="f">🌲 生存模式（保護/土地系統）</div>
-            <div class="f">🏠 公共建築區與玩家商店</div>
-            <div class="f">🎉 每晚篝火活動與小遊戲</div>
-            <div class="f">🔌 插件：經濟 / 家 / 傳送門（範例）</div>
+            <div class="f">生存模式（保護/土地系統）</div>
+            <div class="f">公共建築區與玩家商店</div>
+            <div class="f">每晚篝火活動與小遊戲</div>
+            <div class="f">插件：經濟 / 家 / 傳送門（範例）</div>
           </div>
 
           <div class="join">
-            <div class="ip" id="server-ip">play.example.com</div>
+            <div class="ip" id="server-ip">agency-bathroom.gl.joinmc.link</div>
             <button class="primary" onclick="copyIP()">複製伺服器 IP</button>
             <button class="ghost" onclick="openDiscord()">加入 Discord</button>
           </div>
@@ -125,7 +125,7 @@
           <h3>立即加入</h3>
           <p style="margin:8px 0;color:var(--muted)">伺服器 IP（點擊複製）：</p>
           <div style="display:flex;gap:8px;align-items:center">
-            <div class="ip" id="aside-ip">play.example.com</div>
+            <div class="ip" id="aside-ip">agency-bathroom.gl.joinmc.link</div>
             <button class="primary" onclick="copyIP()">複製</button>
           </div>
 
@@ -175,7 +175,7 @@
     }
     function openDiscord(){
       // 修改為你的 Discord 邀請連結
-      const url = 'https://discord.gg/your-invite';
+      const url = 'https://discord.gg/f5XUsVN4j4';
       window.open(url,'_blank');
     }
     function showMoreRules(){
